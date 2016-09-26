@@ -25,22 +25,22 @@ using Illuminate database engine - https://github.com/illuminate/database <br>
     <tr>
       <td>GET</td>
       <td>api/find/3</td>
-      <td>find todo with id of 3</td>
+      <td>find todo with id of <code>3</code></td>
     </tr>
     <tr>
       <td>POST</td>
       <td>api/todo</td>
-      <td>add new todo (parameter name: todolist</td>
+      <td>add new todo (parameter name: <code>todolist</code>)</td>
     </tr>
     <tr>
       <td>PUT</td>
       <td>api/todo/3</td>
-      <td>update todo with id of 3 (parameter name: updatetodolist</td>
+      <td>update todo with id of <code>3</code> (parameter name: <code>updatetodolist</code>)</td>
     </tr>
     <tr>
       <td>DELETE</td>
       <td>api/todo/3</td>
-      <td>delete todo with id of 3</td>
+      <td>delete todo with id of <code>3</code></td>
     </tr>
   </tbody>
 </table>
