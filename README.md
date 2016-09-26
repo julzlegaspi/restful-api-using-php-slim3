@@ -6,6 +6,8 @@ using Illuminate database engine - https://github.com/illuminate/database <br>
 
 <code>composer install</code> <br>
 
+Sample url: <code>http://localhost:8080/slim3-api/api/todos</code>
+
 "# RESTful-API-using-PHP-Slim3" <br>
 
 <table>
